@@ -34,4 +34,4 @@ Ans:
 Ans:优点：计算简单方便
     缺点：忽略了词语之间的关联性
 9. What't the 2-gram models;
-Ans:    
+Ans:    P（W1，W2,...Wn）= P(W1|W2)*P(W2|W3)*...*P(Wn-1|Wn)*P(Wn)
