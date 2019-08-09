@@ -1,0 +1,52 @@
+1. Why do we use Derivative / Gredient to fit a target function?
+
+Ans:It can  accelerate the speed of fitting
+
+
+2. In the words 'Gredient Descent', what's the Gredient and what's the Descent?
+
+Ans:Gredient is the derivative in the multi-dimensional space.
+
+    Descent means that gredient always decreases,until finding a local minimum of a function.
+
+
+3. What's the advantages of the 3rd gradient descent method compared to the previous methods?
+
+Ans: The 3rd gradient descent method can always keep the  right descent direction.
+
+
+4. Using the simple words to describe: What's the machine leanring.
+
+Ans:  automatic
+
+
+
+
+5.Why do we need dynamic programming? What's the difference of dynamic programming and previous talked search problme?
+
+Ans:Some complicated problems can parse to many overlapping subproblems. In this case ,we can use dynamic programming.
+    Dynamic programming often uses caching and recursion compared to search problems
+
+
+6.Why do we still need dynamic programming? Why not we train a machine learning to fit a function which could get the right answer based on inputs?
+
+Ans:1.Dynamic programming method is relatively simple.
+    2.For some problems, dynamic programming method is more suitable than machine learning method.
+
+7.Can you catch up at least 3 problems which could solved by Dynamic Programming?
+
+Ans:1.Path Planning
+    2.Editdistance
+    3.Longest common subsequence
+
+8.Can you catch up at least 3 problems wich could sloved by Edit Distance?
+
+Ans:1,Spell checker 2.Text similarity 3.DNA sequence detection
+
+9.Please summarize the three main features of Dynamic Programming, and make a concise explain for each feature.
+
+Ans:1.Overlapping Subproblems 2.Overlapping computing saved in a table 3.Parse solution
+
+10.What's the disadvantages of Dynamic Programming? (You may need search by yourself in Internet)
+
+Ans:The main limitation to this type of coding is keeping track of previous decisions and partial choices that may be applied to a future answer.
