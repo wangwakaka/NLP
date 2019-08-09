@@ -113,7 +113,7 @@ if __name__ == '__main__':
 
 
 
-#步骤5：测试模型
+#步骤5：测试模型及可视化
 from gensim.models import Word2Vec
 from sklearn.manifold import TSNE
 import matplotlib.pyplot as plt
